@@ -35,23 +35,6 @@
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-
-### Pool Detail
-![Pool Detail](assets/screenshots/pool-detail.png)
-
-### Invest Modal
-![Invest Modal](assets/screenshots/invest-modal.png)
-
-### Portfolio
-![Portfolio](assets/screenshots/portfolio.png)
-
 ---
 
 ## 🌟 Key Features
@@ -557,9 +540,6 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 ## 📹 Demo
-
-### Video Walkthrough
-[![Video Demo](assets/thumbnails/demo-thumbnail.png)](https://youtube.com)
 
 ### Live Demo
 [Launch App](https://regional-index-pools.vercel.app)
